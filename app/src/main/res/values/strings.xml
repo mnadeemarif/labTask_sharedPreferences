@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testingMaterial</string>
+    <string name="loginbtn">login</string>
+    <string name="regbtn">register</string>
+    <string name="layoutname">login_layout</string>
+</resources>
